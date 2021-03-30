@@ -20,7 +20,7 @@ void main() {
 
       // Emulate a tap on the floating action button.
       await tester.tap(fab);
-      await screenshot(tester, config, 'hello');
+      await screenshot(tester, config, 'test_ss');
 
       await tester.pumpAndSettle();
 
