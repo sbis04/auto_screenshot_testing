@@ -1,0 +1,9 @@
+tests:
+  - integration_test/app_test.dart
+staging: /Users/souvikbiswas/Desktop
+devices:
+  ios:
+    iPhone 12 Pro:
+      frame: false
+      orientation: Portrait
+archive: /Users/souvikbiswas/Desktop
